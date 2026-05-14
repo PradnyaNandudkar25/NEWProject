@@ -40,7 +40,7 @@ exports.getDistByState = (req, res) => {
       res.json(results);
     }
   })
-};
+}
 
 
 
